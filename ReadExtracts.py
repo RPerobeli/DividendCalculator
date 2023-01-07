@@ -3,7 +3,7 @@ import os
 
 def LerExtratosCSV_Clear():
     path = os.getcwd()
-    path += "\DividendCalculator\Extratos"
+    path += "Extratos"
     os.chdir(path )
 
     frames = []
