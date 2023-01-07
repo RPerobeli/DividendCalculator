@@ -8,3 +8,5 @@ Put the exported csv file in thihs repo folder and run the CalculaProventos.py
 
 Dependencies:
 Python and Pandas
+To install pandas: run cmd as admin and use the command
+> pip install pandas
